@@ -1,4 +1,4 @@
-# hi there 
+# Basics 
 
 ![objects](images/getting-started/objects.jpg)
 
