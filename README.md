@@ -1,4 +1,4 @@
-# Fantasia Painter Tutorials and Documentation
+# Fantasia Painter Tutorials and Docs
 
 [Fantasia Painter](https://fantasiapainter.com) is a painting and photo manipulation application. 
 
