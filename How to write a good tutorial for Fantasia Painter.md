@@ -10,7 +10,7 @@ Break steps down into multiple actions if they're too complicated. The reader sh
 
 #### Be quick but thorough
 
-Write in short sentences. Keep paragraphs tidy, short, and easy to read. Keep sentences flowing naturally without too many commas or semicolons. Put the topic of the paragraph in the first sentence. When a reader skims your tutorial, they should understand what each paragraph covers by reading the first line. Use subheadings, lists, bold and emphasis as needed. Explain related options if it's relevant to what can be done within your scenario: *You can change the color of the sticker you just added by sliding the color bar on the bottom right corner.*
+Write in short sentences and keep tidy - and short - paragraphs that are easy to read. Keep sentences flowing naturally without too many commas or semicolons. Put the topic of the paragraph in the first sentence. When a reader skims your tutorial, they should understand what each paragraph covers by reading the first line. Use subheadings, lists, bold and emphasis as needed. Explain related options if it's relevant to what can be done within your scenario: *You can change the color of the sticker you just added by sliding the color bar on the bottom right corner.*
 
 #### Be consistent
 
