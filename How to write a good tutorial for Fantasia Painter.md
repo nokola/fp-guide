@@ -6,11 +6,11 @@ You can write a good tutorial for using Fantasia Painter tools and effects. Have
 
 #### Be easy.
 
-Break steps down into multiple actions if they're too complicated. The reader should come away with a clear understanding of how to complete your tutorial and be confident the final image/painting will look as it should. No surprises in the final product. If you anticipate that there will be surprises or hiccups, point them out clearly so the reader understands what can happen to their image/painting. 
+Break steps down into multiple actions if they're too complicated. The reader should come away with a clear understanding of how to complete your tutorial and be confident the final image/painting will look as it should. No surprises in the final product. If you anticipate there will be surprises or hiccups, point them out clearly so the reader understands what can happen to their image/painting. 
 
 #### Be quick but thorough.
 
-Write in short sentences and keep tidy - and short - paragraphs that are easy to read. Keep sentences flowing naturally without too many commas or semicolons. If a reader skims your tutorial, they should be able to understand what each paragraph covers if you put the topic of the paragraph in the first sentence. Use subheadings, lists, bold and emphasis as needed. Explain related options if it's relevant to what can be done within your scenario: *You can change the color of the sticker you just added by sliding the color bar on the bottom right corner.*
+Write in short sentences and keep tidy - and short - paragraphs that are easy to read. Keep sentences flowing naturally without too many commas or semicolons. If a reader skims your tutorial, they should understand what each paragraph covers if you put the topic of the paragraph in the first sentence. Use subheadings, lists, bold and emphasis as needed. Explain related options if it's relevant to what can be done within your scenario: *You can change the color of the sticker you just added by sliding the color bar on the bottom right corner.*
 
 #### Be consistent.
 
@@ -22,7 +22,7 @@ Keep your sentences short and concise. Focus on actions the reader should take. 
 
 #### Be demonstrative. Use pictures and screenshots.
 
-You have the ability to take a screenshot of your phone screen. Use it to illustrate certain tricky or hard to explain parts of your tutorial, where a visual would be helpful. Use screenshots to show the final product of your tutorial. It should be one of the main attractions for readers. 
+You have the ability to take a screenshot of your phone screen. Use it to illustrate certain tricky or hard to explain parts of your tutorial where a visual would be helpful. Use screenshots to show the final product of your tutorial. It should be one of the main attractions for readers. 
 
 #### Edit.
 
