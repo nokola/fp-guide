@@ -14,7 +14,7 @@ Write in short sentences. Keep paragraphs tidy, short, and easy to read. Keep se
 
 #### Be consistent
 
-Use consistent pronouns in  your writing. If you use 'you' -  *Next, you will select the Fairy Lights brush* - then keep using 'you', 'your', 'you're', etc, throughout the tutorial, so you don't confuse the reader. Continue calling an effect or tool by the same name throughout, don't shorten or abbreviate it.
+Use the 'you' pronoun in your writing. *Next, you will select the Fairy Lights brush.* Keep using 'you', 'your', 'you're', etc, throughout the tutorial, so you don't confuse the reader. Continue calling an effect or tool by the same name throughout, don't shorten or abbreviate it.
 
 #### Be concise
 
@@ -31,6 +31,3 @@ Re-read your tutorial and follow the steps. Check for grammar, punctuation and s
 #### Use the provided template
 
 Follow the structure and additional instructions in the [sample template](sample.md).
-
-
-
