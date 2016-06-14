@@ -1,6 +1,7 @@
 ## TODO: write something amazing here
 
 Checklist:
+
 1. Markdown basics: 
     - headings (## for title and #### for headings)
     - how to do bold, emphasis
