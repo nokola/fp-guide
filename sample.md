@@ -2,6 +2,7 @@
 
 Checklist:
 
+1. have option to [download .zip](SampleTemplateTutorial.zip)
 1. Markdown basics: 
     - headings (## for title and #### for headings)
     - how to do bold, emphasis
