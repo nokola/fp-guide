@@ -27,3 +27,10 @@ Take screenshots of your phone screen by pressing the Volume Up + Power buttons 
 #### Edit
 
 Re-read your tutorial and follow the steps. Check for grammar, punctuation and spelling errors. Is there a section that would be better written as a list of steps, rather than paragraph form? Is it easy and engaging to read or is the amount of text too overwhelming?
+
+#### Use the provided template
+
+Follow the structure and additional instructions in the [sample template](sample.md).
+
+
+

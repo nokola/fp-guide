@@ -8,8 +8,9 @@ I believe there's an artist in each of us. We just need the right tools to show 
 
 ## Contributing
 Thank you for your interest in helping everyone be a better painter.
-
-Fork this repository and create a pull request to contribute.
+- Review [How to write a good tutorial for Fantasia Painter](How to write a good tutorial for Fantasia Painter.md)
+- Install [Typora](https://typora.io) or any other editor for markdown (.md) files.
+- Fork this repository and create a pull request to contribute.
 
 ## License
 MIT
