@@ -31,3 +31,5 @@ Re-read your tutorial and follow the steps. Check for grammar, punctuation and s
 #### Use the provided template
 
 Follow the structure and additional instructions in the [sample template](sample.md).
+
+Also, check the [anti-tutorial](DontReadMe.md). 
