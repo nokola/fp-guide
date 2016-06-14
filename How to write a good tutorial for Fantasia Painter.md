@@ -1,6 +1,6 @@
 ## How to write a good tutorial for Fantasia Painter
 
-You can write a good tutorial for using Fantasia Painter tools and effects. Have you found a unique way to use the Clone tool? How about achieving a desired effect that's tricky to replicate? Or you could have a good eye for color, lines, and simply getting the most of out a painting while using the app. Tutorials make it easy to share your tips with other artists. For the best results, follow these simple guidelines while writing up your tutorial:
+You can write a good tutorial for using Fantasia Painter tools and effects. Have you found a unique way to use the Clone tool? How about achieving a desired effect that's tricky to replicate? Or you could have a good eye for color, lines, and simply getting the most out of a painting while using the app. Tutorials make it easy to share your tips with other artists. For the best results, follow these simple guidelines while writing up your tutorial:
 
 
 
