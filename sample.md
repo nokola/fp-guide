@@ -21,4 +21,4 @@ Checklist:
 1. Only use images that are your own or from pixabay.com
 1. Legal agreement for providing content "by submitting a tutorial etc..."
 1. Add your name on top of the template
-1. template should contain all copyright and/or links to images used on the bottom. Every asset must be traceable.
+1. Tutorial should contain all copyright and/or links to images used on the bottom. Every asset must be traceable.
